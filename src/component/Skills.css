@@ -1,0 +1,42 @@
+.skillsPosion1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem;
+}
+
+.skillsPosion2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 4rem 3rem 4rem 3rem;
+}
+
+.skillsPosion3 {
+    display: flex;
+    justify-content: space-around;
+    margin: 4rem 1rem 4rem 1rem;
+}
+
+.allSkills {
+    gap: 40px;
+    font-size: xx-large;
+}
+
+.image-logo {
+    width: 75px;
+    height: 75px;
+}
+.skills-container {
+    width: 100vw; 
+    padding: 5vw 10vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.skillSize {
+    width: 115px;
+    height: 50px;
+}
+
+.skills-title {
+    padding: 2rem;
+}

@@ -1,0 +1,27 @@
+.img-project{
+    width: 380px;
+    height: 200px;
+    border-radius: 7px;
+    padding-bottom: 1rem;
+}
+
+ .projects-section {
+    display: flex;
+    padding: 5vw;
+    border-radius: 10px;
+ }
+
+ .projects-container {
+    width: 100vw;
+    padding: 5vw 10vw;
+    display: flex;
+    flex-direction: column;
+
+ }
+ .project-text{
+    margin-right: 5vw;
+ }
+
+ .projects-title {
+   margin-bottom: 1rem;
+ }

@@ -1,0 +1,15 @@
+.about-title {
+    margin: 4rem 0 6rem 0;
+}
+ 
+p {
+    line-height: 2;
+    font-size: larger;
+}
+
+.about-container {
+    width: 100vw;
+    padding: 5vw 10vw;
+    display: flex;
+    flex-direction: column;
+}
